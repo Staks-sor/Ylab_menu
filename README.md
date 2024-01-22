@@ -8,7 +8,7 @@
 
 1. Склонируйте репозиторий с проектом:
 
-      git clone [[https://github.com/your/repo.git](https://github.com/Staks-sor/Ylab_menu.git)](https://github.com/Staks-sor/Ylab_menu.git)
+      
    
 
 2. Установите зависимости проекта:
